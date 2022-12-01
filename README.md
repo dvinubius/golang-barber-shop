@@ -17,3 +17,5 @@ The shop has a set time for business hours. After that time passes, no more cust
 Solved via **channels** and a **mutex**.
 
 Pretty terminal output 🤩
+
+![Screenshot 2022-12-01 at 23 36 25](https://user-images.githubusercontent.com/32189942/205164878-1a4ed80d-1fdd-493a-8600-7cb4ea154304.png)
